@@ -1,9 +1,9 @@
 
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atriainnovation.com%2Fen%2Fmachine-learning-in-industry%2F&psig=AOvVaw1h1zl_QYxvvxtgbZN0mac1&ust=1673774650389000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiV183exvwCFQAAAAAdAAAAABA2)](https://TheHarshitMittal.io)
+[![MasterHead](https://www.atriainnovation.com/wp-content/uploads/2021/02/portada.jpg)](https://TheHarshitMittal.io)
 <h1 align="center">Hola 👋, I'm Harshit Mittal</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2F2016%2F09%2Fyou-too-can-become-a-machine-learning-rock-star-no-phd-necessary%2F&psig=AOvVaw0e05DlmQCWAIWOZBNennMk&ust=1673774154363000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDk4crdxvwCFQAAAAAdAAAAABAE")
+(img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif")
 
 - 🌱 I’m currently learning **Machine Learning**
 
