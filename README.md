@@ -1,11 +1,9 @@
-
-
-[![MasterHead](https://www.atriainnovation.com/wp-content/uploads/2021/02/portada.jpg)](https://TheHarshitMittal.io)
+[![MasterHead](https://image.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)](https://TheHarshitMittal.io)
 <h1 align="center">Hola 👋, I'm Harshit Mittal</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif")
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 📫 How to reach me **mittalharshit2109@gmail.com**
 
