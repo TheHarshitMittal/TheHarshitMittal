@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atriainnovation.com%2Fen%2Fmachine-learning-in-industry%2F&psig=AOvVaw1h1zl_QYxvvxtgbZN0mac1&ust=1673774650389000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiV183exvwCFQAAAAAdAAAAABA2)](https://TheHarshitMittal.io)
 <h1 align="center">Hola 👋, I'm Harshit Mittal</h1>
