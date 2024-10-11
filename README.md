@@ -1,4 +1,4 @@
-[![MasterHead](coderimage.gif)]
+[![MasterHead](banner.gif)]
 
 <h1>Hi 👋, I'm Harshit Mittal</h1>
 <h3>Computer Vision and Deep Learning Researcher</h3>
